@@ -1,8 +1,8 @@
 //navigation var
-var navbar = document.getElementById('navbar__list');
+const navbar = document.getElementById('navbar__list');
 
 //section var
-var sections = document.querySelectorAll('section');
+const sections = document.querySelectorAll('section');
 
 
 //build the Bar 
