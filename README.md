@@ -1,2 +1,25 @@
 # Landing-Page
-This is a basic landing page that uses Javascript to create a NavBar dynamically and to highlight sections when scrolled. The project uses HTML, CSS, and Javascript.
+This is an interactive landing page template built with JavaScript, CSS, and HTML. It features dynamic elements and engaging animations to create an impressive user experience. Feel free to use this template as a starting point for your own landing page project.
+
+Table of Contents
+Demo
+Features
+Prerequisites
+Getting Started
+Usage
+Contributing
+License
+Demo
+To see a live demo of the landing page, visit Example Landing Page.
+
+Features
+Responsive design for optimal viewing across various devices.
+Interactive elements to engage users.
+Smooth animations for a modern look and feel.
+Easily customizable to fit your branding.
+
+Prerequisites
+Make sure you have the following installed:
+
+Web browser (e.g., Chrome, Firefox, Safari)
+Code editor (e.g., Visual Studio Code, Sublime Text)
