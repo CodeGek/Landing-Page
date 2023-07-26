@@ -19,8 +19,8 @@ Easily customizable to fit your branding.
 # Prerequisites
 Make sure you have the following installed:
 
-Web browser (e.g., Chrome, Firefox, Safari)
-Code editor (e.g., Visual Studio Code, Sublime Text)
+* Web browser (e.g., Chrome, Firefox, Safari)
+* Code editor (e.g., Visual Studio Code, Sublime Text)
 
 
 # License
