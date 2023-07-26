@@ -5,12 +5,10 @@ Table of Contents
 Demo
 Features
 Prerequisites
-Getting Started
-Usage
-Contributing
 License
+
 Demo
-To see a live demo of the landing page, visit Example Landing Page.
+To see a live demo of the landing page, visit Landing Page link.
 
 Features
 Responsive design for optimal viewing across various devices.
@@ -23,3 +21,8 @@ Make sure you have the following installed:
 
 Web browser (e.g., Chrome, Firefox, Safari)
 Code editor (e.g., Visual Studio Code, Sublime Text)
+
+
+License
+This project is licensed under Udacity.
+
