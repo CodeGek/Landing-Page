@@ -4,6 +4,7 @@ This is an interactive landing page template built with JavaScript, CSS, and HTM
 # Table of Contents
 * Features
 * Prerequisites
+* Contributing
 * License
 
 # Features
@@ -18,6 +19,8 @@ Make sure you have the following installed:
 * Web browser (e.g., Chrome, Firefox, Safari)
 * Code editor (e.g., Visual Studio Code, Sublime Text)
 
+# Contributing
+Contributions are welcome! If you find any issues or have suggestions for improvement, please open an issue or submit a pull request.
 
 # License
 This project is licensed under Udacity.
