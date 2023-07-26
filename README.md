@@ -2,7 +2,7 @@
 This is an interactive landing page template built with JavaScript, CSS, and HTML. It features dynamic elements and engaging animations to create an impressive user experience. Feel free to use this template as a starting point for your own landing page project.
 
 # Table of Contents
-* [Features]
+* [Features] (#Features)
 * [Prerequisites]
 * [Contributing]
 * [License]
