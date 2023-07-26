@@ -8,10 +8,10 @@ This is an interactive landing page template built with JavaScript, CSS, and HTM
 * License
 
 # Features
-Responsive design for optimal viewing across various devices.
-Interactive elements to engage users.
-Smooth animations for a modern look and feel.
-Easily customizable to fit your branding.
+* Responsive design for optimal viewing across various devices.
+* Interactive elements to engage users.
+* Smooth animations for a modern look and feel.
+* Easily customizable to fit your branding.
 
 # Prerequisites
 Make sure you have the following installed:
